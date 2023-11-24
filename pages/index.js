@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Can I Break it?</h1>
+    return <h1>Mano eu odeio a Dark Dimension</h1>
 
 }
 export default Home;
